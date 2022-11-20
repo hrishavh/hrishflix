@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/hrishflix/static/css/main.334bdeb1.css",
+    "main.js": "/hrishflix/static/js/main.25a66e55.js",
+    "index.html": "/hrishflix/index.html",
+    "static/media/search.svg": "/hrishflix/static/media/search.d1c2ba37e6e217d5aeafc190106d5ba5.svg",
+    "main.334bdeb1.css.map": "/hrishflix/static/css/main.334bdeb1.css.map",
+    "main.25a66e55.js.map": "/hrishflix/static/js/main.25a66e55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.25a66e55.js"
+  ]
+}
